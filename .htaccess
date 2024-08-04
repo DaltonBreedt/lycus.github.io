@@ -14,12 +14,3 @@ RewriteRule . /lycus.github.io/index.php [L]
 </IfModule>
 
 # END WordPress
-# BEGIN Simply Static
-# The directives (lines) between "BEGIN Simply Static" and "END Simply Static" are
-# dynamically generated, and should only be modified via WordPress filters.
-# Any changes to the directives between these markers will be overwritten.
-<Files "C:\wamp64\www\lycus.github.io/wp-content/uploads\simply-static\981240055c6d82547c91214685cfdcce-debug.txt">
-require all denied
-require host localhost
-</Files>
-# END Simply Static
