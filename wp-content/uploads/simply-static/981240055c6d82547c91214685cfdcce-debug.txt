@@ -1,0 +1,50 @@
+[2024-08-06 17:16:44] [class-ss-archive-creation-job.php:221] Cancelling job; job is not done
+[2024-08-06 17:16:44] [class-ss-archive-creation-job.php:232] The queue isn't empty; overwriting current task with a cancel task
+[2024-08-06 17:16:47] [class-ss-archive-creation-job.php:221] Cancelling job; job is not done
+[2024-08-06 17:16:47] [class-ss-archive-creation-job.php:232] The queue isn't empty; overwriting current task with a cancel task
+[2024-08-06 17:16:49] [class-ss-archive-creation-job.php:384] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-06 17:16:49] [class-ss-archive-creation-job.php:384] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-06 17:16:49] [class-ss-archive-creation-job.php:324] Status message: [error] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-06 17:16:49] [class-ss-archive-creation-job.php:324] Status message: [error] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-06 17:16:52] [class-ss-archive-creation-job.php:221] Cancelling job; job is not done
+[2024-08-06 17:16:52] [class-ss-archive-creation-job.php:232] The queue isn't empty; overwriting current task with a cancel task
+[2024-08-06 17:16:52] [class-ss-archive-creation-job.php:384] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-06 17:16:52] [class-ss-archive-creation-job.php:324] Status message: [error] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-06 17:16:57] [class-ss-archive-creation-job.php:221] Cancelling job; job is not done
+[2024-08-06 17:16:57] [class-ss-archive-creation-job.php:221] Cancelling job; job is not done
+[2024-08-06 17:16:57] [class-ss-archive-creation-job.php:232] The queue isn't empty; overwriting current task with a cancel task
+[2024-08-06 17:16:57] [class-ss-archive-creation-job.php:232] The queue isn't empty; overwriting current task with a cancel task
+[2024-08-06 17:16:57] [class-ss-archive-creation-job.php:221] Cancelling job; job is not done
+[2024-08-06 17:16:57] [class-ss-archive-creation-job.php:232] The queue isn't empty; overwriting current task with a cancel task
+[2024-08-06 17:16:57] [class-ss-archive-creation-job.php:384] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-06 17:16:57] [class-ss-archive-creation-job.php:324] Status message: [error] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-06 17:17:02] [class-ss-archive-creation-job.php:384] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-06 17:17:02] [class-ss-archive-creation-job.php:384] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-06 17:17:02] [class-ss-archive-creation-job.php:324] Status message: [error] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-06 17:17:02] [class-ss-archive-creation-job.php:324] Status message: [error] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-06 17:17:02] [class-ss-archive-creation-job.php:384] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-06 17:17:02] [class-ss-archive-creation-job.php:324] Status message: [error] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-06 17:21:37] [class-ss-archive-creation-job.php:221] Cancelling job; job is not done
+[2024-08-06 17:21:37] [class-ss-archive-creation-job.php:232] The queue isn't empty; overwriting current task with a cancel task
+[2024-08-06 17:21:42] [class-ss-archive-creation-job.php:384] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-06 17:21:42] [class-ss-archive-creation-job.php:324] Status message: [error] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-06 17:22:18] [class-ss-archive-creation-job.php:221] Cancelling job; job is not done
+[2024-08-06 17:22:18] [class-ss-archive-creation-job.php:232] The queue isn't empty; overwriting current task with a cancel task
+[2024-08-06 17:22:23] [class-ss-archive-creation-job.php:384] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-06 17:22:23] [class-ss-archive-creation-job.php:324] Status message: [error] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-06 17:26:05] [class-ss-archive-creation-job.php:221] Cancelling job; job is not done
+[2024-08-06 17:26:05] [class-ss-archive-creation-job.php:232] The queue isn't empty; overwriting current task with a cancel task
+[2024-08-06 17:26:11] [class-ss-archive-creation-job.php:384] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-06 17:26:11] [class-ss-archive-creation-job.php:324] Status message: [error] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-08 01:45:31] [class-ss-archive-creation-job.php:221] Cancelling job; job is not done
+[2024-08-08 01:45:31] [class-ss-archive-creation-job.php:232] The queue isn't empty; overwriting current task with a cancel task
+[2024-08-08 01:45:31] [class-ss-archive-creation-job.php:221] Cancelling job; job is not done
+[2024-08-08 01:45:31] [class-ss-archive-creation-job.php:232] The queue isn't empty; overwriting current task with a cancel task
+[2024-08-08 01:45:33] [class-ss-archive-creation-job.php:221] Cancelling job; job is not done
+[2024-08-08 01:45:33] [class-ss-archive-creation-job.php:232] The queue isn't empty; overwriting current task with a cancel task
+[2024-08-08 01:45:36] [class-ss-archive-creation-job.php:384] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-08 01:45:36] [class-ss-archive-creation-job.php:384] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-08 01:45:36] [class-ss-archive-creation-job.php:324] Status message: [error] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-08 01:45:36] [class-ss-archive-creation-job.php:324] Status message: [error] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-08 01:45:38] [class-ss-archive-creation-job.php:384] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
+[2024-08-08 01:45:38] [class-ss-archive-creation-job.php:324] Status message: [error] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\wamp64\www\lycus.github.io\wp-includes\class-wpdb.php</b> on line <b>2344</b>
